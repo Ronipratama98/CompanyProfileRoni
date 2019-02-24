@@ -1,2 +1,0 @@
-# CompanyProfileRoni
-Company Profile
